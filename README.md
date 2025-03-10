@@ -4,4 +4,4 @@
 
 # 项目初始化
 1. 生成 pacakge.json 文件
-   pnpm init
+pnpm init
